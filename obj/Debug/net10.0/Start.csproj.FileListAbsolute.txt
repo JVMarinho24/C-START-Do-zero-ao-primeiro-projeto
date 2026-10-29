@@ -12,3 +12,4 @@ C:\Users\jvmar\Start\obj\Debug\net10.0\refint\Start.dll
 C:\Users\jvmar\Start\obj\Debug\net10.0\Start.pdb
 C:\Users\jvmar\Start\obj\Debug\net10.0\Start.genruntimeconfig.cache
 C:\Users\jvmar\Start\obj\Debug\net10.0\ref\Start.dll
+C:\Users\jvmar\Start\obj\Debug\net10.0\Start.sourcelink.json
