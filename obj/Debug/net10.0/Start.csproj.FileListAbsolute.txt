@@ -1,0 +1,14 @@
+C:\Users\jvmar\Start\bin\Debug\net10.0\Start.exe
+C:\Users\jvmar\Start\bin\Debug\net10.0\Start.deps.json
+C:\Users\jvmar\Start\bin\Debug\net10.0\Start.runtimeconfig.json
+C:\Users\jvmar\Start\bin\Debug\net10.0\Start.dll
+C:\Users\jvmar\Start\bin\Debug\net10.0\Start.pdb
+C:\Users\jvmar\Start\obj\Debug\net10.0\Start.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jvmar\Start\obj\Debug\net10.0\Start.AssemblyInfoInputs.cache
+C:\Users\jvmar\Start\obj\Debug\net10.0\Start.AssemblyInfo.cs
+C:\Users\jvmar\Start\obj\Debug\net10.0\Start.csproj.CoreCompileInputs.cache
+C:\Users\jvmar\Start\obj\Debug\net10.0\Start.dll
+C:\Users\jvmar\Start\obj\Debug\net10.0\refint\Start.dll
+C:\Users\jvmar\Start\obj\Debug\net10.0\Start.pdb
+C:\Users\jvmar\Start\obj\Debug\net10.0\Start.genruntimeconfig.cache
+C:\Users\jvmar\Start\obj\Debug\net10.0\ref\Start.dll
